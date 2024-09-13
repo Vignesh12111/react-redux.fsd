@@ -19,7 +19,7 @@ const Navbar = () => {
     <div>
       <header className="container mt-4">
         <div className="text-center fs-2 mb-2">
-          <span className="heading ">React Day 12 Task Redux Cart Page</span>
+          <span className="heading ">React Day 32 Task Redux Cart Page</span>
         </div>
         <div className="contianer d-flex justify-content-between  header-text m-5">
           <p className="fs-4 ms-5">Total Price : ${totalPrice}</p>
